@@ -23,3 +23,11 @@ Usage: ./ergo-bootstrap {init|start|stop|status|destroy}
     stop      Stop the cluster
     status    Get status of an initialized cluster
     destroy   Destroy the current cluster
+
+sudo pacman -S paru
+
+paru -Syu
+docker
+docker-compose
+intellij-idea-community-edition
+sbt
